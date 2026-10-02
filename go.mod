@@ -1,4 +1,4 @@
-module protos
+module github.com/weizds/protos
 
 go 1.26.8
 
